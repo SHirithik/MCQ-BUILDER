@@ -1,9 +1,9 @@
-# MCQ Generator
+# MCQ BUILDER
 
 ## Project Overview
-The MCQ Generator is a web application that automates the creation of multiple-choice questions (MCQs) from text documents. It is designed for educators, content producers, and anyone needing efficient MCQ generation. The MCQ Generator App presents a convenient solution for automating the creation of multiple-choice questions (MCQs) from your text materials. Whether you're an educator developing quizzes, a content producer designing evaluations, or someone in need of prompt and effective MCQ generation, this application is your go-to option!
+The MCQ Builder is a web application that automates the creation of multiple-choice questions (MCQs) from text documents. It is designed for educators, content producers, and anyone needing efficient MCQ generation. The MCQ Builder App presents a convenient solution for automating the creation of multiple-choice questions (MCQs) from your text materials. Whether you're an educator developing quizzes, a content producer designing evaluations, or someone in need of prompt and effective MCQ generation, this application is your go-to option!
 
-Click this link to go to the MCQ-GENERATOR web app: [MCQ Generator App](https://mcq-generator-djrn.onrender.com)
+Click this link to go to the MCQ-BUILDER web app: [MCQ Generator App](https://mcq-generator-djrn.onrender.com)
 
 ### Features
 - **Document Upload:** Supports PDF and Word file uploads.
